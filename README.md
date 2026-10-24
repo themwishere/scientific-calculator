@@ -8,3 +8,7 @@ some features of this scientific calculator:
 2. automatic resizing depend on scale of the calculator; the bigger the size, the bigger the font and vice versa.
 3. scientific keybinding; for those using it everyday
 4. simple and light size
+
+
+instructor: Attila Gheshghae
+https://github.com/atila-gh
