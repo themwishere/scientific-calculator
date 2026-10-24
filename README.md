@@ -10,5 +10,5 @@ some features of this scientific calculator:
 4. simple and light size
 
 
-instructor: Attila Gheshghae
+Instructor: Attila Gheshghae
 https://github.com/atila-gh
